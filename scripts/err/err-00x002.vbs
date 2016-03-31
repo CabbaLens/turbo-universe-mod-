@@ -1,0 +1,1 @@
+x=msgbox("Turbo universe was unable to commit suicide because I'm a coward please end me",0,"Error")
